@@ -1,0 +1,14 @@
+{
+  "name": "Ribbon New Tab",
+  "description": "Replace your boring new tab with a cool ribbon",
+  "version": "0.1",
+  "manifest_version": 3,
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": {
+    "16": "assets/icon128.png",
+    "48": "assets/icon128.png",
+    "128": "assets/icon128.png"
+  }
+}
